@@ -1,0 +1,23 @@
+{
+  "name": "prettier-config-bytro",
+  "version": "1.0.0",
+  "description": "Bytro Labs Prettier configuration",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bytro/prettier-config-bytro.git"
+  },
+  "keywords": [
+    "prettier",
+    "prettierconfig",
+    "config",
+    "bytrolabs",
+    "javascript",
+    "styleguide"
+  ],
+  "author": "Bytro Labs <tech@bytro.com>",
+  "license": "UNLICENSED",
+  "peerDependencies": {
+    "prettier": ">= 1"
+  }
+}
